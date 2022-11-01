@@ -1,4 +1,4 @@
-# Android Project 4 - *Name of App Here*
+# Android Project 4 - *Flixter2*
 Starter code for AND102 Lab 4
 
 Submitted by: **David Bogunjoko-Benjamin**
